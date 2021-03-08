@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [simpleen.io](https://simpleen.io)
+- 💬 Ask me about i18n, l10n, translations, TypeScript, Gatsby & React
+- 📫 [Twitter](https://twitter.com/denisaugsburger) or [mail](mailto:denis.augsburger@simpleen.io)
+- 😄 He/him
+- ⚡ Fun fact: I'm also a firefighter
+
 <!--
 **daugsbi/daugsbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
